@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -12,9 +13,9 @@
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
 
     This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
+    the --base-href argument provided to flutter build.
   -->
-<!--   <base href="/"> -->
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -27,12 +28,33 @@
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/png" href="favicon.png" />
 
-  <title>classter_replacement</title>
+  <title>Classter Replacement</title>
   <link rel="manifest" href="manifest.json">
+  <style>
+    .container {
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .indicator {
+      width: 5vw;
+    }
+  </style>
 </head>
-<body>
+
+<body style="overflow: hidden;">
+  <div id="loading_indicator" class="container">
+    <img src="./assets/loading.gif" class="indicator">
+
+  </div>
   <script src="flutter_bootstrap.js" async></script>
+  <script>
+  </script>
 </body>
+
 </html>
