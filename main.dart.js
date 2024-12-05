@@ -46901,9 +46901,9 @@ r=h?0:12
 q=g.w
 p=h?B.FQ:A.e2(i,i,B.t,i,i,i,i,i,i,i,i,i,i)
 o=h?A.e2(i,i,B.t,i,i,i,i,i,i,i,i,i,i):new A.Ay(e,i)
-n=A.ix("images/ET_logo.png",B.fz,i,i,e*7,e*16)
+n=A.ix("assets/images/ET_logo.png",B.fz,i,i,e*7,e*16)
 if(h){h=e*2
-h=new A.b7(B.F2,A.kh(!1,i,!0,A.ix("images/menu.png",B.z,B.dE,i,h,h),i,!0,!1,i,i,i,i,i,i,i,i,i,i,new A.auj(g),i,i,i,i,i,i),i)}else{h=t.l7
+h=new A.b7(B.F2,A.kh(!1,i,!0,A.ix("assets/images/menu.png",B.z,B.dE,i,h,h),i,!0,!1,i,i,i,i,i,i,i,i,i,i,new A.auj(g),i,i,i,i,i,i),i)}else{h=t.l7
 m=J.AP(6,h)
 for(l=this.b,k=g.y,j=0;j<6;++j)m[j]=g.akB(a,j,l,k[j])
 h=A.es(A.a0(m,!0,h),B.H,B.a2,B.X,i)}l=t.p
@@ -46997,25 +46997,25 @@ A.Ay.prototype={
 a8(){return new A.VT()}}
 A.VT.prototype={
 H(a){var s,r,q,p=this,o=null,n=A.H(a).ax.a===B.a1,m=p.a.c
-m=A.ix("images/pin.png",B.z,o,o,m,m)
+m=A.ix("assets/images/pin.png",B.z,o,o,m,m)
 s=A.H(a).p2.Q
 if(s==null)s=o
 else s=s.aT(n?B.i:B.bF)
 r=t.p
 s=A.es(A.b([m,A.bw("19 & 9 St Patrick's Hill, Cork, T23 KNV9",o,o,o,o,s,o,o)],r),B.H,B.aY,B.ba,o)
 m=p.a.c
-m=A.ix("images/telephone.png",B.z,o,o,m,m)
+m=A.ix("assets/images/telephone.png",B.z,o,o,m,m)
 q=A.H(a).p2.Q
 if(q==null)q=o
 else q=q.ama(n?B.i:B.bF,B.FI)
 q=A.es(A.b([s,B.il,A.es(A.b([m,A.bw("+353 (21) 241 11 31",o,o,o,o,q,o,o)],r),B.H,B.aY,B.ba,o)],r),B.H,B.aY,B.X,o)
 m=p.a.c
-return new A.b7(B.F6,A.es(A.b([new A.b7(B.F3,q,o),A.es(A.b([new A.tu("images/calendar.png","Placement Test",m,new A.asK(),o),B.il,new A.tu("images/wifi.png","Online Portal",m,new A.asL(),o),B.il,new A.tu("images/user.png","Students Zone",m,new A.asM(),o),B.il,p.akD(n,m)],r),B.H,B.aY,B.ba,o)],r),B.ch,B.eZ,B.X,o),o)},
+return new A.b7(B.F6,A.es(A.b([new A.b7(B.F3,q,o),A.es(A.b([new A.tu("assets/images/calendar.png","Placement Test",m,new A.asK(),o),B.il,new A.tu("assets/images/wifi.png","Online Portal",m,new A.asL(),o),B.il,new A.tu("assets/images/user.png","Students Zone",m,new A.asM(),o),B.il,p.akD(n,m)],r),B.H,B.aY,B.ba,o)],r),B.ch,B.eZ,B.X,o),o)},
 akD(a,b){var s,r,q=this,p=null,o=A.aF4(B.k,1),n=q.d,m=n?B.dE:B.v
 if(n)n=B.i
 else n=a?B.i:B.bF
 s=b+6
-s=A.ix("images/application.png",B.z,n,p,s,s)
+s=A.ix("assets/images/application.png",B.z,n,p,s,s)
 n=q.c
 n.toString
 n=A.H(n).p2.Q
@@ -47073,7 +47073,7 @@ H(a){var s=null
 return A.e2(s,B.CP,B.t,B.f_,s,s,s,s,s,s,s,s,A.b1(a,s,t.w).w.a.a)}}
 A.AA.prototype={
 a8(){var s=t.s
-return new A.VV(A.b(["images/degree.jpg","images/reading.jpg","images/lecture.jpg"],s),A.b(["ICP Programme - International Commencement \nProgramme","General English Courses","English for Academic Purposes"],s),A.b6(3,!1,!1,t.y))}}
+return new A.VV(A.b(["assets/images/degree.jpg","assets/images/reading.jpg","assets/images/lecture.jpg"],s),A.b(["ICP Programme - International Commencement \nProgramme","General English Courses","English for Academic Purposes"],s),A.b6(3,!1,!1,t.y))}}
 A.VV.prototype={
 H(a){var s,r,q,p,o,n=this,m=null,l=A.H(a),k=t.w,j=A.b1(a,m,k).w.a.b/1.1,i=n.a,h=i.c
 i=i.d.b<=600?A.b1(a,m,k).w.a.a:i.f
@@ -47104,7 +47104,7 @@ a0J(a0,a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=t.w,d=A.b1(a0,f,e).w,c
 for(s=t.p,r=g.f,q=g.e,p=g.d,o=a1/3.3333,n=0;n<3;++n){m=A.ix(p[n],B.z,f,B.cG,o,17976931348623157e292)
 l=A.b1(a0,f,e).w
 k=r[n]?A.H(a0).fr:B.i
-j=A.ix("images/right-arrow.png",B.z,r[n]?B.i:B.k,B.cG,10,20)
+j=A.ix("assets/images/right-arrow.png",B.z,r[n]?B.i:B.k,B.cG,10,20)
 i=q[n]
 h=A.H(a0).p2.Q
 if(h==null)h=f
@@ -47114,7 +47114,7 @@ a0I(a,b,a0){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=t.w,e=A.cY(new A.b7(B.nt,n
 for(s=t.p,r=h.f,q=h.e,p=h.d,o=0;o<3;++o){n=A.ix(p[o],B.z,g,B.cG,200,17976931348623157e292)
 m=A.b1(a,g,f).w
 l=r[o]?A.H(a).fr:B.i
-k=A.ix("images/right-arrow.png",B.z,r[o]?B.i:B.k,B.cG,10,20)
+k=A.ix("assets/images/right-arrow.png",B.z,r[o]?B.i:B.k,B.cG,10,20)
 j=q[o]
 i=A.H(a).p2.Q
 if(i==null)i=g
@@ -47143,7 +47143,7 @@ $0(){var s=this.a.f,r=this.b
 s[r]=!s[r]},
 $S:0}
 A.uw.prototype={
-a8(){return new A.W6(A.b(["images/slider1.jpg","images/slider2.jpg","images/slider3.jpg"],t.s),null,null)}}
+a8(){return new A.W6(A.b(["assets/images/slider1.jpg","assets/images/slider2.jpg","assets/images/slider3.jpg"],t.s),null,null)}}
 A.W6.prototype={
 aq(){var s,r,q,p=this,o=null
 p.aL()
@@ -47259,7 +47259,7 @@ s.m()
 this.aB()},
 H(a){return new A.lV(new A.asU(this),null)}}
 A.asU.prototype={
-$2(a,b){var s=null,r=A.aSB(B.Dd,A.ix("images/whatsapp.png",B.z,B.i,B.BD,24,24),!1,new A.asT()),q=this.a,p=q.e
+$2(a,b){var s=null,r=A.aSB(B.Dd,A.ix("assets/images/whatsapp.png",B.z,B.i,B.BD,24,24),!1,new A.asT()),q=this.a,p=q.e
 p===$&&A.a()
 return new A.eL(A.ak8(s,new A.AA(p,b,q.f,q.r,s),s,r,s),s)},
 $S:332}
