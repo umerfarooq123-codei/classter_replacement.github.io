@@ -1,1 +1,18 @@
-{"assets/fonts/Roboto-Bold.ttf":["assets/fonts/Roboto-Bold.ttf"],"assets/fonts/Roboto-Italic.ttf":["assets/fonts/Roboto-Italic.ttf"],"assets/fonts/Roboto-Regular.ttf":["assets/fonts/Roboto-Regular.ttf"],"assets/images/ET_logo.png":["assets/images/ET_logo.png"],"assets/images/application.png":["assets/images/application.png"],"assets/images/calendar.png":["assets/images/calendar.png"],"assets/images/degree.jpg":["assets/images/degree.jpg"],"assets/images/lecture.jpg":["assets/images/lecture.jpg"],"assets/images/menu.png":["assets/images/menu.png"],"assets/images/pin.png":["assets/images/pin.png"],"assets/images/reading.jpg":["assets/images/reading.jpg"],"assets/images/right-arrow.png":["assets/images/right-arrow.png"],"assets/images/slider1.jpg":["assets/images/slider1.jpg"],"assets/images/slider2.jpg":["assets/images/slider2.jpg"],"assets/images/slider3.jpg":["assets/images/slider3.jpg"],"assets/images/telephone.png":["assets/images/telephone.png"],"assets/images/user.png":["assets/images/user.png"],"assets/images/whatsapp.png":["assets/images/whatsapp.png"],"assets/images/wifi.png":["assets/images/wifi.png"]}
+{
+  "assets/images/ET_logo.png": ["assets/images/ET_logo.png"],
+  "assets/images/application.png": ["assets/images/application.png"],
+  "assets/images/calendar.png": ["assets/images/calendar.png"],
+  "assets/images/degree.jpg": ["assets/images/degree.jpg"],
+  "assets/images/lecture.jpg": ["assets/images/lecture.jpg"],
+  "assets/images/menu.png": ["assets/images/menu.png"],
+  "assets/images/pin.png": ["assets/images/pin.png"],
+  "assets/images/reading.jpg": ["assets/images/reading.jpg"],
+  "assets/images/right-arrow.png": ["assets/images/right-arrow.png"],
+  "assets/images/slider1.jpg": ["assets/images/slider1.jpg"],
+  "assets/images/slider2.jpg": ["assets/images/slider2.jpg"],
+  "assets/images/slider3.jpg": ["assets/images/slider3.jpg"],
+  "assets/images/telephone.png": ["assets/images/telephone.png"],
+  "assets/images/user.png": ["assets/images/user.png"],
+  "assets/images/whatsapp.png": ["assets/images/whatsapp.png"],
+  "assets/images/wifi.png": ["assets/images/wifi.png"]
+}
