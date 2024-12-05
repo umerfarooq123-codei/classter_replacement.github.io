@@ -2,9 +2,17 @@
   {
     "fonts": [
       {
-        "assets": "fonts/MaterialIcons-Regular.ttf"
+        "asset": "assets/fonts/Roboto-Regular.ttf"
+      },
+      {
+        "asset": "assets/fonts/Roboto-Bold.ttf",
+        "weight": 700
+      },
+      {
+        "asset": "assets/fonts/Roboto-Italic.ttf",
+        "style": "italic"
       }
     ],
-    "family": "MaterialIcons"
+    "family": "Roboto"
   }
 ]
