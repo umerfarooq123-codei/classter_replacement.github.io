@@ -43063,7 +43063,7 @@ $S:588}
 A.aoH.prototype={
 $0(){var s=this.a
 s.ad(new A.aoF(s))
-A.kj(A.de(0,s.w?0:1000,0),new A.aoG(s,this.b),t.a)},
+A.kj(A.de(0,s.w?0:700,0),new A.aoG(s,this.b),t.a)},
 $S:0}
 A.aoF.prototype={
 $0(){this.a.r=!0},
